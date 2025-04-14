@@ -1,113 +1,69 @@
-# 👋 Hi, I'm Sanyog Jadhav
-
-I'm a passionate Full Stack Developer from Pune, India, specializing in building scalable and efficient applications. With a strong foundation in both front-end and back-end technologies, I strive to create user-centric solutions that seamlessly integrate innovation with functionality.&#8203;:contentReference[oaicite:3]{index=3}
+<h1 align="center">Hi there 👋, I'm Sanyog Jadhav</h1>
+<h3 align="center">Full Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 ---
 
-## 🛠️ Skills
+🌟 Welcome to my GitHub! I'm a passionate developer who loves building scalable full-stack web applications, exploring new technologies, and turning ideas into digital reality.
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently diving deeper into **Next.js**, **Firebase**, and cloud integrations  
+- 🌱 Learning to build better **developer experiences** and **community-driven platforms**  
+- 💬 Ask me about anything related to **Web Development**, **JavaScript**, or **APIs**  
+- ⚡ Fun fact: I’m a coffee-fueled coder who believes in clean code and clean UI ✨  
+
+---
+
+## 💼 Tech Stack
 
 ### Frontend
-- React.js&#8203;:contentReference[oaicite:4]{index=4}
-- Next.js&#8203;:contentReference[oaicite:5]{index=5}
-- :contentReference[oaicite:6]{index=6}&#8203;:contentReference[oaicite:7]{index=7}
-- :contentReference[oaicite:8]{index=8}&#8203;:contentReference[oaicite:9]{index=9}
+<p>
+  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-### Backend
-- :contentReference[oaicite:10]{index=10}&#8203;:contentReference[oaicite:11]{index=11}
-- :contentReference[oaicite:12]{index=12}&#8203;:contentReference[oaicite:13]{index=13}
-- :contentReference[oaicite:14]{index=14}&#8203;:contentReference[oaicite:15]{index=15}
-- :contentReference[oaicite:16]{index=16}&#8203;:contentReference[oaicite:17]{index=17}
-- :contentReference[oaicite:18]{index=18}&#8203;:contentReference[oaicite:19]{index=19}
-
-### Machine Learning & Data Science
-- :contentReference[oaicite:20]{index=20}&#8203;:contentReference[oaicite:21]{index=21}
-- :contentReference[oaicite:22]{index=22}&#8203;:contentReference[oaicite:23]{index=23}
-- :contentReference[oaicite:24]{index=24}&#8203;:contentReference[oaicite:25]{index=25}
-- :contentReference[oaicite:26]{index=26}&#8203;:contentReference[oaicite:27]{index=27}
-- :contentReference[oaicite:28]{index=28}&#8203;:contentReference[oaicite:29]{index=29}
+### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ### Tools & Platforms
-- :contentReference[oaicite:30]{index=30}&#8203;:contentReference[oaicite:31]{index=31}
-- :contentReference[oaicite:32]{index=32}&#8203;:contentReference[oaicite:33]{index=33}
-- :contentReference[oaicite:34]{index=34}&#8203;:contentReference[oaicite:35]{index=35}
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 📫 Connect with Me
 
-### [TaleCademy](#)
-:contentReference[oaicite:36]{index=36}  
-**Tech Stack:** :contentReference[oaicite:37]{index=37}&#8203;:contentReference[oaicite:38]{index=38}
-
-### [URL Shortener](#)
-:contentReference[oaicite:39]{index=39}  
-**Tech Stack:** :contentReference[oaicite:40]{index=40}&#8203;:contentReference[oaicite:41]{index=41}
-
-### [Live Code Editor](#)
-:contentReference[oaicite:42]{index=42}  
-**Tech Stack:** :contentReference[oaicite:43]{index=43}&#8203;:contentReference[oaicite:44]{index=44}
-
-### [EV Charging Station](#)
-:contentReference[oaicite:45]{index=45}  
-**Tech Stack:** :contentReference[oaicite:46]{index=46}&#8203;:contentReference[oaicite:47]{index=47}
-
-### [Mutual Connection](#)
-:contentReference[oaicite:48]{index=48}  
-**Tech Stack:** :contentReference[oaicite:49]{index=49}&#8203;:contentReference[oaicite:50]{index=50}
-
-### [GestureX](#)
-:contentReference[oaicite:51]{index=51}  
-**Tech Stack:** :contentReference[oaicite:52]{index=52}&#8203;:contentReference[oaicite:53]{index=53}
-
-### [Smart Gloves](#)
-:contentReference[oaicite:54]{index=54}  
-**Tech Stack:** :contentReference[oaicite:55]{index=55}&#8203;:contentReference[oaicite:56]{index=56}
-
-### [GuideME](#)
-:contentReference[oaicite:57]{index=57}  
-**Tech Stack:** :contentReference[oaicite:58]{index=58}&#8203;:contentReference[oaicite:59]{index=59}
+<p>
+  <a href="https://www.linkedin.com/in/sanyog-jadhav/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sanyogjadhav789@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://sanyogjadhav-flax.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🎓 Education
-
-- **B.Tech in Information Technology**  
-  :contentReference[oaicite:60]{index=60}  
-  :contentReference[oaicite:61]{index=61}&#8203;:contentReference[oaicite:62]{index=62}
-
-- **Diploma in Computer Engineering**  
-  :contentReference[oaicite:63]{index=63}  
-  :contentReference[oaicite:64]{index=64}&#8203;:contentReference[oaicite:65]{index=65}
-
-- **10th Grade**  
-  :contentReference[oaicite:66]{index=66}  
-  :contentReference[oaicite:67]{index=67}&#8203;:contentReference[oaicite:68]{index=68}
-
----
-
-## 💼 Professional Experience
-
-- **Intern at IANT**  
-  :contentReference[oaicite:69]{index=69}&#8203;:contentReference[oaicite:70]{index=70}
-
-- **Vice President, Cultural Team (GPP)**  
-  :contentReference[oaicite:71]{index=71}&#8203;:contentReference[oaicite:72]{index=72}
-
-- **Creative Coordinator (VIT Pune)**  
-  Handled creative direction for events, designing posters, banners, and merchandise. Worked on branding strategies that enhanced event visibility.&#8203;:contentReference[oaicite:73]{index=73}
-
-- **Technical Coordinator**  
-  Developed and maintained technical projects, including a gamified learning platform and a real-time multiplayer quiz game using socket programming.&#8203;:contentReference[oaicite:74]{index=74}
-
----
-
-## 📫 Contact Me
-
-- **Email:** jadhavsanyog.400@gmail.com&#8203;:contentReference[oaicite:75]{index=75}
-- **Phone:** +91 8600596593&#8203;:contentReference[oaicite:76]{index=76}
-- **Location:** Pune, Maharashtra, India&#8203;:contentReference[oaicite:77]{index=77}
-- **Portfolio:** [sanyogjadhav-flax.vercel.app](https://sanyogjadhav-flax.vercel.app/)
-
----
-
-*© 2025 Sanyog Jadhav. All rights reserved.*
+<!-- GitHub Stats (Optional) -->
+<!--
+![Sanyog's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanyogjadhav&show_icons=true&theme=radical)
+-->
