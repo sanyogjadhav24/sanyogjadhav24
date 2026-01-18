@@ -1,47 +1,46 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=64B5F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sanyog+Jadhav;Full-Stack+Developer;Problem+Solver+%26+Innovator" />
+  Hi, I'm Sanyog Jadhav 👋
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="coding" />
+  <strong>Full-Stack Developer | Problem Solver | Innovator</strong>
+</p>
+
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    width="75%" 
+    alt="coding"
+  />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-<p align="center">
-  I am a passionate full-stack developer focused on building scalable, clean, and user-centric applications.
-  I enjoy solving real-world problems using modern web technologies and writing maintainable code.
-</p>
+I am a passionate full-stack developer focused on building scalable, clean, and user-centric applications.  
+I enjoy solving real-world problems and turning ideas into production-ready products.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,tailwind,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,tailwind,bootstrap" />
 
 ### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgresql" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgresql" />
 
 ### 🧰 Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,figma,docker,aws" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,figma,docker,aws" />
 
 ---
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=sanyogjadhav24&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" 
+    src="https://github-readme-stats-git-master-sanyogs-projects-383fede1.vercel.app/api?username=sanyogjadhav24&show_icons=true&theme=github_dark&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
@@ -51,8 +50,8 @@
 ## 🌱 Currently Exploring
 
 - Real-time applications with **Next.js + Firebase**
-- Interactive dashboards and modern UI patterns
-- Edge Functions, Web performance optimization, and AI integrations
+- Interactive dashboards & modern UI systems
+- Performance optimization and AI integrations
 
 ---
 
@@ -75,4 +74,6 @@
 
 ---
 
-<h3 align="center">🚀 Building the Future, One Line of Code at a Time</h3>
+<h3 align="center">
+  🚀 Building the Future, One Line of Code at a Time
+</h3>
