@@ -38,9 +38,12 @@ I enjoy solving real-world problems and building production-ready products.
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats (Last 1 Year)
+
 <p align="center">
-  <img src="https://github-readme-stats-six-beige-57.vercel.app/api?username=sanyogjadhav24&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-six-beige-57.vercel.app/api?username=sanyogjadhav24&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats-six-beige-57.vercel.app/api/top-langs/?username=sanyogjadhav24&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" />
