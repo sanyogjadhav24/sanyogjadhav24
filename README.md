@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-    width="75%" 
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="75%"
     alt="coding"
   />
 </p>
@@ -39,9 +39,24 @@ I enjoy solving real-world problems and turning ideas into production-ready prod
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-master-sanyogs-projects-383fede1.vercel.app/api?username=sanyogjadhav24&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats"
+  <img
+    src="https://github-readme-stats-six-beige-57.vercel.app/api?username=sanyogjadhav24&show_icons=true&theme=github_dark&hide_border=true"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats-six-beige-57.vercel.app/api/streak?username=sanyogjadhav24&theme=github_dark&hide_border=true"
+    width="48%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-six-beige-57.vercel.app/api/top-langs/?username=sanyogjadhav24&layout=compact&theme=github_dark&hide_border=true"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats-six-beige-57.vercel.app/api/trophies?username=sanyogjadhav24&theme=darkhub&no-frame=true"
+    width="48%"
   />
 </p>
 
@@ -50,7 +65,7 @@ I enjoy solving real-world problems and turning ideas into production-ready prod
 ## 🌱 Currently Exploring
 
 - Real-time applications with **Next.js + Firebase**
-- Interactive dashboards & modern UI systems
+- Scalable UI systems & architecture
 - Performance optimization and AI integrations
 
 ---
