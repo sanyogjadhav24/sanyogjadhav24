@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 I am a passionate full-stack developer focused on building scalable, clean, and user-centric applications.  
-I enjoy solving real-world problems and turning ideas into production-ready products.
+I enjoy solving real-world problems and building production-ready products.
 
 ---
 
@@ -40,23 +40,26 @@ I enjoy solving real-world problems and turning ideas into production-ready prod
 
 <p align="center">
   <img
-    src="https://github-readme-stats-six-beige-57.vercel.app/api?username=sanyogjadhav24&show_icons=true&theme=github_dark&hide_border=true"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats-six-beige-57.vercel.app/api/streak?username=sanyogjadhav24&theme=github_dark&hide_border=true"
-    width="48%"
+    src="https://github-readme-stats-six-beige-57.vercel.app/api
+    ?username=sanyogjadhav24
+    &show_icons=true
+    &include_all_commits=true
+    &count_private=true
+    &theme=github_dark
+    &hide_border=true"
+    alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-six-beige-57.vercel.app/api/top-langs/?username=sanyogjadhav24&layout=compact&theme=github_dark&hide_border=true"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats-six-beige-57.vercel.app/api/trophies?username=sanyogjadhav24&theme=darkhub&no-frame=true"
-    width="48%"
+    src="https://github-readme-stats-six-beige-57.vercel.app/api/top-langs/
+    ?username=sanyogjadhav24
+    &layout=compact
+    &langs_count=8
+    &theme=github_dark
+    &hide_border=true"
+    alt="Top Languages"
   />
 </p>
 
@@ -65,7 +68,7 @@ I enjoy solving real-world problems and turning ideas into production-ready prod
 ## 🌱 Currently Exploring
 
 - Real-time applications with **Next.js + Firebase**
-- Scalable UI systems & architecture
+- Scalable UI systems & clean architecture
 - Performance optimization and AI integrations
 
 ---
