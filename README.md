@@ -40,12 +40,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanyogjadhav24&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
-</p>
-
-  <img
-    src="https://streak-stats.demolab.com?user=sanyogjadhav24&theme=github-dark&hide_border=true"
-    width="48%"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sanyogjadhav24&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" 
+    alt="GitHub Stats"
   />
 </p>
 
