@@ -1,16 +1,9 @@
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=4000&pause=1000&color=64B5F6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sanyog+Jadhav;Full-Stack+Developer+💻;Innovator+✨+Problem+Solver" 
-    alt="Typing SVG" 
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=64B5F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sanyog+Jadhav;Full-Stack+Developer;Problem+Solver+%26+Innovator" />
 </h1>
 
 <p align="center">
-  <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-    alt="Coding" 
-    width="80%" 
-  />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="coding" />
 </p>
 
 ---
@@ -18,8 +11,8 @@
 ## 🚀 About Me
 
 <p align="center">
-  A passionate full-stack developer focused on building scalable, clean, and user-centric applications.  
-  I enjoy transforming complex problems into elegant digital experiences using modern web technologies.
+  I am a passionate full-stack developer focused on building scalable, clean, and user-centric applications.
+  I enjoy solving real-world problems using modern web technologies and writing maintainable code.
 </p>
 
 ---
@@ -43,56 +36,26 @@
 
 ---
 
-## 💡 Guiding Principle
-
-<p align="center">
-  <i>"Design with purpose. Build with passion. Deploy with precision."</i>
-</p>
-
----
-
-## 🧭 Currently Exploring
-
-- 🔭 Real-time apps using **Firebase + Next.js**
-- 🎨 Interactive dashboards with **3D UI & Glassmorphism**
-- ⚡ **Edge Functions**, **Web3 UX**, and **AI integrations**
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sanyogjadhav24&show_icons=true&theme=tokyonight&hide_border=true" 
-    width="48%" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sanyogjadhav24&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
+    width="48%"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sanyogjadhav24&theme=tokyonight&hide_border=true" 
-    width="48%" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyogjadhav24&layout=compact&theme=tokyonight&hide_border=true" 
-    width="48%" 
-  />
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=sanyogjadhav24&theme=tokyonight&no-frame=true&column=3" 
-    width="48%" 
+  <img
+    src="https://streak-stats.demolab.com?user=sanyogjadhav24&theme=github-dark&hide_border=true"
+    width="48%"
   />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🌱 Currently Exploring
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sanyogjadhav24&theme=tokyo-night&hide_border=true" 
-    width="95%" 
-  />
-</p>
+- Real-time applications with **Next.js + Firebase**
+- Interactive dashboards and modern UI patterns
+- Edge Functions, Web performance optimization, and AI integrations
 
 ---
 
@@ -100,16 +63,16 @@
 
 <p align="center">
   <a href="mailto:jadhavsanyog.400@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sanyog-jadhav-295154258/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sanyog_Jadhav-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Sanyog_Jadhav-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://sanyogjadhav-flax.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel"/>
+    <img src="https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://github.com/sanyogjadhav24" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-sanyogjadhav24-24292E?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-sanyogjadhav24-24292E?style=for-the-badge&logo=github" />
   </a>
 </p>
 
