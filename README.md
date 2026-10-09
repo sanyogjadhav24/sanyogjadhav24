@@ -56,34 +56,35 @@ I'm a Software Engineer passionate about building scalable backend systems, full
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css,tailwind,bootstrap" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css,tailwind,bootstrap" alt="React, Next.js, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap" />
 </p>
 
 ### ⚙️ Backend & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,rails" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,rails" alt="Spring Boot, Node.js, Express.js, Ruby on Rails" />
 </p>
 
 ### 🗄️ Databases & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,aws,docker" alt="Databases and cloud technologies" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,snowflake,aws" alt="PostgreSQL, MongoDB, Firebase, Snowflake, AWS" />
 </p>
 
 ### 🧰 Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma" alt="Developer tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma" alt="Git, GitHub, VS Code, Postman, Vercel, Figma" />
 </p>
 
-**Additional technologies:** Apache Airflow, Datadog, Snowflake, RSpec, SQL, NoSQL, CI/CD, Agile, unit testing, and functional testing.
+**Additional technologies:** Apache Airflow · Datadog · RSpec · SQL · NoSQL · CI/CD · Agile · Unit Testing · Functional Testing
 
 ---
 
 ## 💼 Professional Experience
 
 ### Software Engineer Intern — Pattern Technologies
+
 *May 2026 – July 2026 | Pune, India*
 
 - Developed **10+ production features** across two Ruby on Rails repositories.
@@ -93,6 +94,7 @@ I'm a Software Engineer passionate about building scalable backend systems, full
 - Wrote RSpec unit tests and performed QA in an Agile workflow.
 
 ### Software Development Engineer Intern — CyberUnbound
+
 *January 2025 – August 2025 | Pune, India*
 
 - Built a certificate authentication and verification system serving **500+ users**.
@@ -127,7 +129,7 @@ I'm a Software Engineer passionate about building scalable backend systems, full
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/ML-Machine_Learning-FF9900?style=flat-square" alt="Machine Learning" />
+        <img src="https://img.shields.io/badge/Machine_Learning-FF9900?style=flat-square" alt="Machine Learning" />
       </p>
       <ul>
         <li>Direct farmer-to-customer marketplace.</li>
